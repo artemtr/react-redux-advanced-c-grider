@@ -1,1 +1,1 @@
-# redux-advanced-grider
+https://www.udemy.com/course/react-redux-tutorial/
